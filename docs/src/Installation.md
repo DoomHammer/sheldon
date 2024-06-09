@@ -1,6 +1,6 @@
 # 📦 Installation
 
-### Nix
+## Nix
 
 This repository is a flake, and can be installed using nix profile:
 
